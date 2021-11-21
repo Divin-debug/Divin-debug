@@ -1,5 +1,12 @@
 ![demo](https://cdn.discordapp.com/attachments/881014411786068008/912011248126799892/unknown.png)
 <h1 align="center">Hi 👋, I'm Divin</h1>
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Why do I use VIM?](https://layor.hashnode.dev/why-do-i-use-vim)
+- [List of personal best tips for golfing with Javascript.](https://layor.hashnode.dev/list-of-personal-best-tips-for-golfing-with-javascript)
+<!-- BLOG-POST-LIST:END -->
+
 ```
  _._     _,-'""`-._
 (,-.`._,'(       |\`-/|
