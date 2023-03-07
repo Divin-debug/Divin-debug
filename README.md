@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hashnode.com/@Divinouille"><img src="https://cdn.discordapp.com/attachments/1077240911693619243/1082727051548700762/c8d7a23f646420be1f9988d5f96cfb57.jpg" alt="Divin banner"></a>
+  <a href="https://hashnode.com/@Divinouille"><img src="https://cdn.discordapp.com/attachments/1077240911693619243/1082728810811752519/4c33097d400e49b45fd770448b9b4d86.gif" alt="Divin banner"></a>
 </p>
 
 
